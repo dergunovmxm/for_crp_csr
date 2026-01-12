@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import { useEffect, useState } from "react";
 import data from "./data.json";
 import "./App.css";
 
